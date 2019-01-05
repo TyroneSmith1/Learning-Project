@@ -1,1 +1,10 @@
 CTFGames
+
+
+#OverTheWire
+Passwords
+Bandit1:boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+Bandit2:CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+Bandit3:UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+Bandit4:pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+Bandit5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
