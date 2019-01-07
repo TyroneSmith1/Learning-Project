@@ -8,7 +8,7 @@ Passwords
 
 =======
 =======
->>>>>>> 7166d5638abe95fb1d018e4f991835760e985e62
+
 
 0
 
@@ -36,4 +36,5 @@ Passwords
 
 
 5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+		Went into inhere then searched for a file with 1033 bytes by using find -size 1033c
 
