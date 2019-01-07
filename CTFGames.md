@@ -32,10 +32,10 @@ Passwords
 
 4:pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
-      I went into each file in inhere and found it using cat and ls
+		I went into each file in inhere and found it using cat and ls
 
 
 5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 		
-		Went into inhere then searched for a file with 1033 bytes by using find -size 1033c
+	   Went into inhere then searched for a file with 1033 bytes by using find -size 1033c
 
