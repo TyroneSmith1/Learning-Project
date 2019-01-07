@@ -6,12 +6,15 @@ CTFGames
 
 Passwords
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bandit1:boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 Bandit2:CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 Bandit3:UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 Bandit4:pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 Bandit5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 =======
+=======
+>>>>>>> 7166d5638abe95fb1d018e4f991835760e985e62
 
 0
 
@@ -39,4 +42,7 @@ Bandit5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 
 5:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+<<<<<<< HEAD
+>>>>>>> 7166d5638abe95fb1d018e4f991835760e985e62
+=======
 >>>>>>> 7166d5638abe95fb1d018e4f991835760e985e62
