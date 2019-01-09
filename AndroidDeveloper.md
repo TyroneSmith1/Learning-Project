@@ -8,18 +8,18 @@ https://www-lynda-com.ezproxy.lvccld.org/Java-tutorials/Welcome/184457/374279-4.
 
 FLOWCHART SYMBOLS AND MEANINGS
 ```
-Start/End Circle
+Start/End ---Circle
 
 
-Process Rectangle
+Process   ---Rectangle
 
 
-Decision Diamond
+Decision  ---Diamond
 
 
-Data Parallelogram
+Data      ---Parallelogram
 
 
-Files Notes
+Files     ---Notes
 ```
 
