@@ -14,3 +14,9 @@ Yesterday: Got to level 9 In bandit
 
 Today's Plan: get to level 15
 ```
+1/11/19
+```
+Yesterday: Got to level 15
+
+Today: Java videos
+```
