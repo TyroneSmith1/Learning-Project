@@ -20,3 +20,9 @@ Yesterday: Got to level 15
 
 Today: Java videos
 ```
+1/12/19
+```
+Yesterday: Watched More Java
+
+Today: Make more progress in Java vids
+```
