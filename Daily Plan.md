@@ -26,3 +26,14 @@ Yesterday: Watched More Java
 
 Today: Make more progress in Java vids
 ```
+1/13/19
+```
+Yesterday: Java
+
+Today: Java
+```
+1/14/19
+```
+Yesterday: Java
+
+Today: Cybersecurity video progress
