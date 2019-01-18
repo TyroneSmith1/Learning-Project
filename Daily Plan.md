@@ -37,3 +37,15 @@ Today: Java
 Yesterday: Java
 
 Today: Cybersecurity video progress
+1/16/19
+```
+Yesterday: Cybersecurity + Sensor
+
+Today: Web development meeting + SensorTransport
+```
+1/17/19
+```
+Yesterday: Cybersecurity + Sensor
+
+Today: Sensor + Java
+```
